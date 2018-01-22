@@ -83,7 +83,7 @@ Esta pessoa também será responsável por manter o canal do grupo em nosso Slac
 
 ## Criando o repositório do grupo
 
-Para criar o repositório basta usar este [template](https://github.com/training-center/template-study-group).
+Para criar o repositório basta usar este [template](https://github.com/FGF-College-Work/template-grupo-de-estudo).
 
 ## Como funcionam os estudos
 
