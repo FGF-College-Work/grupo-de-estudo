@@ -76,7 +76,7 @@ Direcionar aqui **não é ensinar**. Você não precisa ser expert em uma coisa 
 
 Ex.:
 
-- [Grupo de estudos PHP OOP]()
+- [Grupo de estudos PHP](https://github.com/FGF-College-Work/php-grupo-de-estudo)
 - [Clojure study group]()
 
 Esta pessoa também será responsável por manter o canal do grupo em nosso Slack organizado.
